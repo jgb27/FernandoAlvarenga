@@ -234,4 +234,8 @@ a {
   footer {
     font-size: 0.65rem;
   }
+
+  .profile-image {
+    max-width: 250px;
+  }
 }
